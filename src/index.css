@@ -21,6 +21,7 @@ html {
 *::before {
   box-sizing: inherit;
 }
+
 html,
 body,
 #root {
