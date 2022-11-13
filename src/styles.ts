@@ -8,6 +8,7 @@ export const AppContainer = styled.div`
   height: 100%;
   padding: 20px;
   width: 100%;
+  gap: 15px;
 `;
 
 export const ColumnContainer = styled.div`
