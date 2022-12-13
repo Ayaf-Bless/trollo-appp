@@ -8544,6 +8544,11 @@ throat@^6.0.1:
   resolved "https://registry.yarnpkg.com/throat/-/throat-6.0.1.tgz#d514fedad95740c12c2d7fc70ea863eb51ade375"
   integrity sha512-8hmiGIJMDlwjg7dlJ4yKGLK8EsYqKgPWbG3b4wjJddKNwc7N7Dpn08Df4szr/sZdMVeOstrdYSsqzX6BYbcB+w==
 
+throttle-debounce-ts@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/throttle-debounce-ts/-/throttle-debounce-ts-1.1.1.tgz#7fa016ccd5f82a6c1e5ed248134a309439b35f13"
+  integrity sha512-GUz8pRapqadMqXhQcQPwN/Cvmt0QqFtvr/aVle4yyigqhsC+aCtS3dSnsQwmxAeeB6D8ww6xsl2GRsWWad9/4w==
+
 thunky@^1.0.2:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/thunky/-/thunky-1.1.0.tgz#5abaf714a9405db0504732bbccd2cedd9ef9537d"
