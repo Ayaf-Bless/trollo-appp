@@ -1,4 +1,4 @@
-import { ColumnTitle, CardContainer, ColumnContainer } from "../styles";
+import { ColumnTitle, ColumnContainer } from "../styles";
 import { AddNewItem } from "./AddNewItem";
 import { Card } from "./Card";
 import { useAppState } from "../state/AppStatesCtx";
