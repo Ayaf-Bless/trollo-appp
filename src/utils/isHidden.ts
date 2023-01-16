@@ -1,7 +1,7 @@
-import { DraggedItem } from "../types/dragItem";
+import { DragItem } from "../DragItem"
 
 export const isHidden = (
-  draggedItem: DraggedItem | null,
+  draggedItem: DragItem | null,
   itemType: string,
   id: string,
   isPreview?: boolean
@@ -11,5 +11,5 @@ export const isHidden = (
       draggedItem &&
       draggedItem.type === itemType &&
       draggedItem.id === id
-  );
-};
+  )
+}
